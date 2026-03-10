@@ -32,6 +32,40 @@ Each folder contains `q1.md`, `q2.md`, etc. for questions and corresponding `a1.
 
 > Feel free to add more questions or expand the repository as you want!
 
+## Question Navigation
+
+Click any link below to jump straight to that practice problem.
+
+### FCFS
+- [q1](questions/fcfs/q1.md)
+- [q2](questions/fcfs/q2.md)
+- [q3](questions/fcfs/q3.md)
+
+### Non-preemptive SJF
+- [q1](questions/sjf_nonpreemptive/q1.md)
+- [q2](questions/sjf_nonpreemptive/q2.md)
+- [q3](questions/sjf_nonpreemptive/q3.md)
+
+### Priority Scheduling
+- [q1](questions/priority/q1.md)
+- [q2](questions/priority/q2.md)
+- [q3](questions/priority/q3.md)
+
+### Round Robin
+- [q1](questions/roundrobin/q1.md)
+- [q2](questions/roundrobin/q2.md)
+- [q3](questions/roundrobin/q3.md)
+
+### Preemptive SJF
+- [q1](questions/sjf_preemptive/q1.md)
+- [q2](questions/sjf_preemptive/q2.md)
+- [q3](questions/sjf_preemptive/q3.md)
+- [q4](questions/sjf_preemptive/q4.md)
+- [q5](questions/sjf_preemptive/q5.md)
+
+---
+
+Happy studying! ✅
 ---
 
 Happy studying! ✅
