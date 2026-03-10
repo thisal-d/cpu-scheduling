@@ -72,6 +72,7 @@ Ready for a challenge? Try these mixed-algorithm papers with missing data!
 |-------|-------------|-----------|
 | [Paper 1](papers/paper1.md) | All 5 types, missing burst/WT | [Sol 1](answers/papers/paper1_sol.md) |
 | [Paper 2](papers/paper2.md) | Advanced reverse-engineering | [Sol 2](answers/papers/paper2_sol.md) |
+| [Paper 3](papers/paper3.md) | SRTF Masterclass + Gantt Charts | [Sol 3](answers/papers/paper3_sol.md) |
 
 
 ---
