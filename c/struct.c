@@ -14,7 +14,10 @@ int main(){
     car.wheels = 1;
     car.tires = 3;
 
-    Car* car_p = &car;
+    Car* car_p;
+    
+    car_p = &car;
+    
 
-    printf("%d\n", car.wheels);
+    printf("%d\n", car_p->wheels);
 }
