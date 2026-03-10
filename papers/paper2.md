@@ -34,7 +34,7 @@ Wait time for $P_3$ is 5ms. If $P_1$ is highest priority, find the missing Prior
 | Process | Burst Time (ms) | Priority | Waiting Time (ms) | Turnaround Time (ms) |
 | :--- | :---: | :---: | :---: | :---: |
 | $P_{1}$ | 5 | 1 | ? | ? |
-| $P_{2}$ | 3 | **?** | ? | ? |
+| $P_{2}$ | 7 | **?** | ? | ? |
 | $P_{3}$ | 7 | 3 | 12 | ? |
 
 ---
