@@ -23,7 +23,7 @@ Determine the Completion Time (CT), Turnaround Time (TAT), and Waiting Time (WT)
 | :--- | :---: | :---: | :---: |
 | $P_{1}$ | 0 | 4 | ? |
 | $P_{2}$ | 1 | **?** | 8 |
-| $P_{3}$ | 2 | 1 | 4 |
+| $P_{3}$ | 2 | 1 | 3 |
 
 ---
 

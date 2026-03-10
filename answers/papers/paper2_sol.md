@@ -18,7 +18,13 @@
 ---
 
 ### **2. Shortest Job First (Non-Preemptive)**
-**Order**: $P_2(1) \to P_4(2) \to P_3(4) \to P_1(9)$
+**How to Solve**:
+1. All processes arrive at $t=0$, so the CPU simply picks the process with the shortest burst time.
+2. Order of execution: $P_2 (1) \to P_4 (2) \to P_3 (4) \to P_1 (9)$.
+3. Waiting Time is the sum of the burst times of all preceding processes.
+
+**Gantt Chart**:
+`| P2 (0-1) | P4 (1-3) | P3 (3-7) | P1 (7-16) |`
 
 | Process | Burst Time (ms) | Waiting Time (ms) | Turnaround Time (ms) |
 | :--- | :---: | :---: | :---: |
@@ -26,6 +32,8 @@
 | $P_{2}$ | 1 | 0 | 1 |
 | $P_{3}$ | 4 | 3 | 7 |
 | $P_{4}$ | 2 | 1 | 3 |
+| **Average** | **-** | **2.75 ms** | **6.75 ms** |
+
 
 ---
 
