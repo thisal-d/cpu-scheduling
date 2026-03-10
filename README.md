@@ -65,6 +65,17 @@ Click any link below to jump straight to that practice problem.
 
 ---
 
+## 📝 Practice Papers
+Ready for a challenge? Try these mixed-algorithm papers with missing data!
+
+| Paper | Description | Solutions |
+|-------|-------------|-----------|
+| [Paper 1](papers/paper1.md) | All 5 types, missing burst/WT | [Sol 1](answers/papers/paper1_sol.md) |
+| [Paper 2](papers/paper2.md) | Advanced reverse-engineering | [Sol 2](answers/papers/paper2_sol.md) |
+
+
+---
+
 Happy studying! ✅
 ---
 
